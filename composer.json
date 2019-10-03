@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/codewix_adminhints",
+    "name": "OpenMageModuleFostering\/codewix_adminhints",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "Extension will help you to see template and block hints in magento admin",
     "authors": [
-    {
-        "name": "Codewix Development",
-        "email": "codewix@gmail.com"
-    }
-],
+        {
+            "name": "Codewix Development",
+            "email": "codewix@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
